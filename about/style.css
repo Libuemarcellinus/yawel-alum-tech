@@ -212,8 +212,8 @@ body {
 .why-item {
   display: flex;
   gap: 15px;
-  background: transparent; /* ❌ no card */
-  padding: 0; /* ❌ no box */
+  background: transparent;
+  padding: 0;
 }
 
 .why-item i {
@@ -226,6 +226,10 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.why-item div {
+  width: 90%;
 }
 
 .why-item h4 {
