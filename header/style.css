@@ -17,6 +17,10 @@ header {
   align-items: center;
 }
 
+.logo-link {
+  text-decoration: none;
+}
+
 .logo {
   display: flex;
   align-items: center;

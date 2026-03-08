@@ -34,7 +34,7 @@ h6 {
     system-ui,
     -apple-system,
     sans-serif;
-  font-weight: 600; /* or 700 for bolder headings */
+  font-weight: bold; /* or 700 for bolder headings */
 }
 
 /* MAIN LAYOUT */
